@@ -1,8 +1,8 @@
 {
     "manifest_version": 2,
   
-    "name": "GTmetrix Analyzer Plugin",
-    "description": "This extension will analyze a page using GTmetrix",
+    "name": "Node Effect Project",
+    "description": "Simple Xamarin.Forms chrome extension built with the Uno platform",
     "version": "1.0",
     "content_security_policy":"script-src 'self' 'unsafe-eval'; object-src 'self';",
     "browser_action": {

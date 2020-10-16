@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "6rFXNkOedN2n/I2Ei6ytjM7H3iRk4X2LyA4sZKlDb65vEDKb9eO8zjETPL/neC434rg8/3OlmuQK5WxSjFC0Eg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\alexa\\Documents\\xamarin task\\idk\\XamarinFormsWasmChromeExtension\\AlexTselikas\\App8\\App8\\App8.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\alexa\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\alexa\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\alexa\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.6.0.1141\\xamarin.forms.4.6.0.1141.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,28 @@
+C:\Users\alexa\source\repos\App8\App8\bin\Debug\netstandard2.0\App8.deps.json
+C:\Users\alexa\source\repos\App8\App8\bin\Debug\netstandard2.0\App8.dll
+C:\Users\alexa\source\repos\App8\App8\bin\Debug\netstandard2.0\ref\App8.dll
+C:\Users\alexa\source\repos\App8\App8\bin\Debug\netstandard2.0\App8.pdb
+C:\Users\alexa\source\repos\App8\App8\obj\Debug\netstandard2.0\App8.csprojAssemblyReference.cache
+C:\Users\alexa\source\repos\App8\App8\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\alexa\source\repos\App8\App8\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\alexa\source\repos\App8\App8\obj\Debug\netstandard2.0\App8.AssemblyInfoInputs.cache
+C:\Users\alexa\source\repos\App8\App8\obj\Debug\netstandard2.0\App8.AssemblyInfo.cs
+C:\Users\alexa\source\repos\App8\App8\obj\Debug\netstandard2.0\App8.csproj.CoreCompileInputs.cache
+C:\Users\alexa\source\repos\App8\App8\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\alexa\source\repos\App8\App8\obj\Debug\netstandard2.0\App8.dll
+C:\Users\alexa\source\repos\App8\App8\obj\Debug\netstandard2.0\ref\App8.dll
+C:\Users\alexa\source\repos\App8\App8\obj\Debug\netstandard2.0\App8.pdb
+C:\Users\alexa\Documents\xamarin task\idk\XamarinFormsWasmChromeExtension\AlexTselikas\App8\App8\bin\Debug\netstandard2.0\App8.deps.json
+C:\Users\alexa\Documents\xamarin task\idk\XamarinFormsWasmChromeExtension\AlexTselikas\App8\App8\bin\Debug\netstandard2.0\App8.dll
+C:\Users\alexa\Documents\xamarin task\idk\XamarinFormsWasmChromeExtension\AlexTselikas\App8\App8\bin\Debug\netstandard2.0\ref\App8.dll
+C:\Users\alexa\Documents\xamarin task\idk\XamarinFormsWasmChromeExtension\AlexTselikas\App8\App8\bin\Debug\netstandard2.0\App8.pdb
+C:\Users\alexa\Documents\xamarin task\idk\XamarinFormsWasmChromeExtension\AlexTselikas\App8\App8\obj\Debug\netstandard2.0\App8.csprojAssemblyReference.cache
+C:\Users\alexa\Documents\xamarin task\idk\XamarinFormsWasmChromeExtension\AlexTselikas\App8\App8\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\alexa\Documents\xamarin task\idk\XamarinFormsWasmChromeExtension\AlexTselikas\App8\App8\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\alexa\Documents\xamarin task\idk\XamarinFormsWasmChromeExtension\AlexTselikas\App8\App8\obj\Debug\netstandard2.0\App8.AssemblyInfoInputs.cache
+C:\Users\alexa\Documents\xamarin task\idk\XamarinFormsWasmChromeExtension\AlexTselikas\App8\App8\obj\Debug\netstandard2.0\App8.AssemblyInfo.cs
+C:\Users\alexa\Documents\xamarin task\idk\XamarinFormsWasmChromeExtension\AlexTselikas\App8\App8\obj\Debug\netstandard2.0\App8.csproj.CoreCompileInputs.cache
+C:\Users\alexa\Documents\xamarin task\idk\XamarinFormsWasmChromeExtension\AlexTselikas\App8\App8\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\alexa\Documents\xamarin task\idk\XamarinFormsWasmChromeExtension\AlexTselikas\App8\App8\obj\Debug\netstandard2.0\App8.dll
+C:\Users\alexa\Documents\xamarin task\idk\XamarinFormsWasmChromeExtension\AlexTselikas\App8\App8\obj\Debug\netstandard2.0\ref\App8.dll
+C:\Users\alexa\Documents\xamarin task\idk\XamarinFormsWasmChromeExtension\AlexTselikas\App8\App8\obj\Debug\netstandard2.0\App8.pdb
